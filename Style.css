@@ -1,0 +1,32 @@
+.wrappedTextDiv {
+    min-height: 150px;
+}
+.homePageImage {
+    width:200px;
+    padding:5px;
+    float:left;
+}
+.mainDivPadding {
+    padding:15px;
+}
+#Banner{
+    background:#2e7dc7;
+    height:80px;
+    padding:20px;
+}
+#Logo{
+    width:80px;
+     height:80px;
+     position:absolute;
+     right: 8px;
+     top:0px
+}
+#ServicesPageImage{
+    height:200px;
+    float:right;
+    margin:10px
+}
+#ServiceList{
+    font-size:16pt;
+    padding:30px;
+}
